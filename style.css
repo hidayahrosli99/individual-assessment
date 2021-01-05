@@ -1,0 +1,57 @@
+body
+{
+background-color:PowderBlue ;
+}
+
+h1
+{
+background-color: DodgerBlue;
+font-family: Copperplate Gothic Bold;
+font-size: 88px;
+color: black;
+border: solid;
+border-color:black;
+border-radius:20px;
+}
+
+h2
+{
+font-size: 30px;
+color: blue ;
+text-allign: center;
+font-family: Footlight MT Light;
+}
+
+p
+{
+background-color: white  ;
+font-size: 30px;
+color: black ;
+font-family: 'Lakki Reddy', cursive;
+text-allign: center;
+pedding: 15px;
+
+border: inset;
+border-color:DCD9B1
+border-bottom-right-radius:20px;
+}
+
+
+a:link, a:visited
+{
+background-color:black ;
+color: DodgerBlue;
+text-allign: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 10px;
+padding: 10px;
+
+}
+
+a:hover, a:active
+{
+background-color:DimGray;
+color:white;
+text-decoration: none;
+}
